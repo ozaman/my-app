@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTModuleMethod.m \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTModuleMethod.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTNullability.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/gbtit/Desktop/myapp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/gbtit/Desktop/myapp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/gbtit/Desktop/myapp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTParserUtils.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Profiler/RCTProfile.h

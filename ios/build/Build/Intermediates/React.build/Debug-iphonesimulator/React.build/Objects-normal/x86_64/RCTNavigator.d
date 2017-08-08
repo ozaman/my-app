@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Views/RCTNavigator.m \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Views/RCTNavigator.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/gbtit/Desktop/myapp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/gbtit/Desktop/myapp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/gbtit/Desktop/myapp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Views/RCTNavItem.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Views/RCTScrollView.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Views/RCTScrollableProtocol.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Views/RCTView.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
+  /Users/gbtit/Desktop/myapp/node_modules/react-native/React/Views/UIView+React.h
