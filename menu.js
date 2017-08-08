@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#555',
   },
   avatar: {
-    marginTop:20,
+    marginTop:50,
     marginLeft: 100,
     // align:'center',
     width: 48,
