@@ -23,11 +23,13 @@ const styles = StyleSheet.create({
     width: window.width,
     height: window.height,
     backgroundColor: 'white',
-    padding: 20,
+    // padding: 20,
   },
   avatarContainer: {
     marginBottom: 20,
-    marginTop: 20,
+    // marginTop: 20,
+    height: 100,
+    backgroundColor: '#555',
   },
   avatar: {
     width: 48,

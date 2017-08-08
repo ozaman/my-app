@@ -1,6 +1,2 @@
 dependencies: \
-  /Users/gbtit/Desktop/myapp/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.c \
-  /Users/gbtit/Desktop/myapp/node_modules/react-native/ReactCommon/yoga/yoga/YGNodeList.h \
-  /Users/gbtit/Desktop/myapp/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h \
-  /Users/gbtit/Desktop/myapp/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h \
-  /Users/gbtit/Desktop/myapp/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h
+  /Users/gbtit/Documents/GitHub/my-app/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.c
