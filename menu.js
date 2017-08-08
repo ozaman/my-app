@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
   },
   name: {
     position: 'absolute',
-    left: 70,
+    left: 80,
     top: 20,
   },
   item: {
