@@ -28,14 +28,17 @@ const styles = StyleSheet.create({
   avatarContainer: {
     marginBottom: 20,
     // marginTop: 20,
-    height: 100,
+    height: 150,
     backgroundColor: '#555',
   },
   avatar: {
+    marginTop:20,
+    marginLeft: 100,
+    // align:'center',
     width: 48,
     height: 48,
     borderRadius: 24,
-    flex: 1,
+    // flex: 1,
   },
   name: {
     position: 'absolute',
