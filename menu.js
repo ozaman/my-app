@@ -7,6 +7,7 @@ import {
   View,
   Image,
   Text,
+  TouchableOpacity
 } from 'react-native';
 import { 
   Button,
@@ -95,8 +96,8 @@ flex: 1,
   }, 
 });
 
-export default function menu({ onItemSelected }) {
-  const resizeMode = 'center';
+export default function menu() {
+  
   
   return (
     <ScrollView scrollsToTop={false} style={styles.menu}>
@@ -143,13 +144,29 @@ export default function menu({ onItemSelected }) {
         
       </View>
       <View
-        onPress={() => onItemSelected('Report')}
+        onPress={() => this.props.onItemSelected('Report')}
         style={styles.item}
       >
       <Icons name="cog" color="#999" size={20} style={styles.iconmenu}/> 
         <Text style={styles.textmenu}>Setting</Text>
         
       </View>
+      <View
+        onPress={() => onItemSelected('Report')}
+        style={styles.item}
+      >
+      <Icons name="sign-out" color="#999" size={20} style={styles.iconmenu}/> 
+        <Text style={styles.textmenu}>Logout</Text>
+        
+      </View>
+      <TouchableOpacity
+        onPress={() => onItemSelected('About')}
+        style={styles.item}
+      >
+      <Icons name="sign-in" color="#999" size={20} style={styles.iconmenu}/> 
+        <Text style={styles.textmenu}>Login</Text>
+        
+      </TouchableOpacity>
       </View>
     </ScrollView>
   );

@@ -16,6 +16,7 @@ import {
  } from 'react-native-material-design';
 import DrawerLayout from 'react-native-drawer-layout';
 import Menu from './menu';
+import Login from './src/login/Login';
 
 const image = require('./assets/menu.png');
 const uri = 'https://pickaface.net/gallery/avatar/Opi51c74d0125fd4.png';
@@ -90,8 +91,11 @@ export default class myapp extends Component {
       selectedItem: 'About',
     };
   }
+  openPopup(){}
+
 
   toggle() {
+    alert("in")
     this.setState({
       isOpen: !this.state.isOpen,
     });
@@ -106,6 +110,12 @@ export default class myapp extends Component {
       isOpen: false,
       selectedItem: item,
     });
+    //  onItemSelected = item =>
+    // this.setState({
+    //   isOpen: false,
+    //   selectedItem: item,
+    // });
+   
     
 
   render() {
