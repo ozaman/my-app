@@ -8,7 +8,7 @@ import {
   Image,
   TouchableOpacity,
 } from 'react-native';
-import LoginForm from './LoginFrom';
+import LoginForm from './LoginForm';
  export default class Login extends Component {
      render(){
          return(
@@ -16,7 +16,7 @@ import LoginForm from './LoginFrom';
                 <View style={styles.logoContainer}>
                     <Image 
                         style={styles.logo}
-                        source={require('./images/logo.png')}
+                        source={require('../images/logo.png')}
                     />
                     <Text style={styles.title} >Login dot app</Text>
                 </View>

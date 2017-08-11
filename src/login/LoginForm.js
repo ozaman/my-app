@@ -31,17 +31,17 @@ input: {
     height: 20,
     backgroundColor: 'rgba(255,255,255,0.2)',
     marginBottom: 20,
-    paddingHorizontsl: 10,
+    paddingHorizontal: 10,
 },
 bottomContainer: {
-    backgroundColor: '#29888b9',
+    backgroundColor: '#2988b9',
     paddingVertical: 15,
 
 },
 bottomText: {
     textAlign: 'center',
     color: '#ffffff',
-    fonntWeight: '700',
+    fontWeight: '700',
 },
 
 });
