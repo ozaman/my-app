@@ -106,6 +106,7 @@ export default class myapp extends Component {
       isOpen: false,
       selectedItem: item,
     });
+    
 
   render() {
     const menu = <Menu onItemSelected={this.onMenuItemSelected} />;
